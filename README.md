@@ -5,7 +5,7 @@
 
 [![Junyoung's github stats](https://github-readme-stats.vercel.app/api?username=komo3344)](https://github.com/anuraghazra/github-readme-stats)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komo3344s&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komo3344&layout=compact&theme=tokyonight)
 
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
