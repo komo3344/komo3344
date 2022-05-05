@@ -8,11 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komo3344&layout=compact&theme=tokyonight)
 
 ## Main Skill
-  <span>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  </span>
 </div>
 <!--
 **komo3344/komo3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
