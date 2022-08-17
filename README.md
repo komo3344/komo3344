@@ -12,9 +12,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Certificate
-![AWS](https://www.credly.com/badges/44f45b88-c574-43fa-8898-79336441f7e9/public_url)
-<!--
+## Certificate  
+![aws-certified-developer-associate](https://user-images.githubusercontent.com/33312219/185009352-8ab8c5fd-b282-4081-aa89-5138a6e26f3d.png)
+
 **komo3344/komo3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
