@@ -13,7 +13,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Certificate  
-![aws-certified-developer-associate](https://user-images.githubusercontent.com/33312219/185009469-ea512b5e-da39-46c3-bce5-59a45a4bd713.png)
+![aws-certified-developer-associate (1)](https://user-images.githubusercontent.com/33312219/185009724-c1eb8b6c-bf86-47af-9cd3-33309e272ebc.png)
+
 
   
 <!--
