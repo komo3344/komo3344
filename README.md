@@ -12,8 +12,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44f45b88-c574-43fa-8898-79336441f7e9" data-share-badge-host="https://www.credly.com"></div>
-</div>
+## Certificate
+![AWS](https://www.credly.com/badges/44f45b88-c574-43fa-8898-79336441f7e9/public_url)
 <!--
 **komo3344/komo3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
