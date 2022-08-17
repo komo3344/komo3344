@@ -13,8 +13,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Certificate  
-![aws-certified-developer-associate](https://user-images.githubusercontent.com/33312219/185009352-8ab8c5fd-b282-4081-aa89-5138a6e26f3d.png)
+![aws-certified-developer-associate](https://user-images.githubusercontent.com/33312219/185009469-ea512b5e-da39-46c3-bce5-59a45a4bd713.png)
 
+  
+<!--
 **komo3344/komo3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
