@@ -18,7 +18,7 @@
 
 
 ## Open source contribution
-장고 스타일 가이드 예제(https://github.com/HackSoftware/Django-Styleguide-Example)
+![장고 스타일 가이드 예제](https://github.com/HackSoftware/Django-Styleguide-Example)
 <!--
 **komo3344/komo3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
